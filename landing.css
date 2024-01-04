@@ -20,13 +20,29 @@ body{
     margin: 0% -6% 0% 0%;
 }
 
-#trailer_video {
-    display: none;
-}
-#trailer_video1{
-    display: none;
-}
+#trailer_video {display: none;}
+#trailer_video1{display: none;}
+#trailer_video3{display: none;}
+#trailer_video4{display: none;}
+#trailer_video5{display: none;}
+#trailer_video6{display: none;}
+
+#trailer_video7{display: none;}
+#trailer_video8{display: none;}
+#trailer_video9{display: none;}
+#trailer_video10{display: none;}
+#trailer_video11{display: none;}
+#trailer_video12{display: none;}
+
+
 #Continue_video1{display: none;}
+#Continue_video2{display: none;}
+#Continue_video3{display: none;}
+#Continue_video4{display: none;}
+#Continue_video5{display: none;}
+#Continue_video6{display: none;}
+
+
 #trailer_video2{display: none;}
 
 .netflix-padding-right{
@@ -182,14 +198,14 @@ i{
 
 .slider{
     position: absolute;
-    top: 480px ;
+    top: 450px ;
     z-index: 500;
     /* margin-left: 80px; */
 }
 
 .slider2{
     position: absolute;
-    top: 280px ;
+    top: 290px ;
     z-index: 600;
 }
 
@@ -197,6 +213,12 @@ i{
     position: absolute;
     top: 930px ;
     z-index: 400;
+}
+.slider4{
+    position: absolute;
+    top: 1130px ;
+    z-index: 300;
+    /* display: none; */
 }
 
 
@@ -285,7 +307,7 @@ i{
 
 
 .footer{
-    margin-top: 230px;
+    margin-top: 430px;
     margin-bottom: 10px;
 }
 
