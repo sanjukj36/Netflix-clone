@@ -300,3 +300,84 @@ $(function(){
         $videoc6.hide();
     });
 });
+
+var $imagect2 = $('#trending_img2');
+var $videoct2 = $('#trending_video2');
+
+$(function(){
+    $imagect2.on('mouseenter', function(){
+        $imagect2.hide();
+        $videoct2.show();
+    });
+
+    // If you want to revert the changes on mouse leave, you can add the following code
+    $videoct2.on('mouseleave', function(){
+        $imagect2.show();
+        $videoct2.hide();
+    });
+});
+
+var $imagect3 = $('#trending_img3');
+var $videoct3 = $('#trending_video3');
+
+$(function(){
+    $imagect3.on('mouseenter', function(){
+        $imagect3.hide();
+        $videoct3.show();
+    });
+
+    // If you want to revert the changes on mouse leave, you can add the following code
+    $videoct3.on('mouseleave', function(){
+        $imagect3.show();
+        $videoct3.hide();
+    });
+});
+
+
+var $imagect4 = $('#trending_img4');
+var $videoct4 = $('#trending_video4');
+
+$(function(){
+    $imagect4.on('mouseenter', function(){
+        $imagect4.hide();
+        $videoct4.show();
+    });
+
+    // If you want to revert the changes on mouse leave, you can add the following code
+    $videoct4.on('mouseleave', function(){
+        $imagect4.show();
+        $videoct4.hide();
+    });
+});
+
+var $imagect5 = $('#trending_img5');
+var $videoct5 = $('#trending_video5');
+
+$(function(){
+    $imagect5.on('mouseenter', function(){
+        $imagect5.hide();
+        $videoct5.show();
+    });
+
+    // If you want to revert the changes on mouse leave, you can add the following code
+    $videoct5.on('mouseleave', function(){
+        $imagect5.show();
+        $videoct5.hide();
+    });
+});
+
+var $imagect6 = $('#trending_img6');
+var $videoct6 = $('#trending_video6');
+
+$(function(){
+    $imagect6.on('mouseenter', function(){
+        $imagect6.hide();
+        $videoct6.show();
+    });
+
+    // If you want to revert the changes on mouse leave, you can add the following code
+    $videoct6.on('mouseleave', function(){
+        $imagect6.show();
+        $videoct6.hide();
+    });
+});

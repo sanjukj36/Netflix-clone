@@ -22,11 +22,11 @@ body{
 
 #trailer_video {display: none;}
 #trailer_video1{display: none;}
+#trailer_video2{display: none;}
 #trailer_video3{display: none;}
 #trailer_video4{display: none;}
 #trailer_video5{display: none;}
 #trailer_video6{display: none;}
-
 #trailer_video7{display: none;}
 #trailer_video8{display: none;}
 #trailer_video9{display: none;}
@@ -43,14 +43,28 @@ body{
 #Continue_video6{display: none;}
 
 
-#trailer_video2{display: none;}
+#trending_video2{display: none;}
+#trending_video3{display: none;}
+#trending_video4{display: none;}
+#trending_video5{display: none;}
+#trending_video6{display: none;}
+#trending_video7{display: none;}
+#trending_video8{display: none;}
+
+
+#trailer_img{
+    margin: -71% 0% 0% 27%;
+    width: 50%;
+     height: 152px;
+}
+
 
 .netflix-padding-right{
     padding-right: 57px;
 }
 
 .netflix-navbar{
-    /* background-color: #0C0C0C !important; */
+    /* background-color: #141414 !important; */
     z-index: 1000;
     transition: background 0.2s linear;
     position: fixed;
@@ -206,7 +220,7 @@ i{
 .slider2{
     position: absolute;
     top: 290px ;
-    z-index: 600;
+    z-index: 500;
 }
 
 .slider3{
@@ -286,7 +300,9 @@ i{
 }
 
 .netflix-card-text{
-    font-size: 8px ;
+    color: rgb(230, 230, 230);
+     font-size: 12px;
+     font-weight: 600;
 }
 
 .position-slider2{
