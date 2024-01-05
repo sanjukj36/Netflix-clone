@@ -212,25 +212,25 @@ i{
 
 .slider{
     position: absolute;
-    top: 450px ;
+    top: 653px ;
     z-index: 500;
     /* margin-left: 80px; */
 }
 
 .slider2{
     position: absolute;
-    top: 290px ;
+    top: 590px ;
     z-index: 500;
 }
 
 .slider3{
     position: absolute;
-    top: 930px ;
+    top: 1130px ;
     z-index: 400;
 }
 .slider4{
     position: absolute;
-    top: 1130px ;
+    top: 1530px ;
     z-index: 300;
     /* display: none; */
 }
