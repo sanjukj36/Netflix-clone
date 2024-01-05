@@ -219,18 +219,18 @@ i{
 
 .slider2{
     position: absolute;
-    top: 620px ;
+    top: 851px ;
     z-index: 500;
 }
 
 .slider3{
     position: absolute;
-    top: 1130px ;
+    top: 1205px ;
     z-index: 400;
 }
 .slider4{
     position: absolute;
-    top: 1390px ;
+    top: 1473px ;
     z-index: 300;
     /* display: none; */
 }
@@ -323,7 +323,7 @@ i{
 
 
 .footer{
-    margin-top: 565px;
+    margin-top: 926px;
     margin-bottom: 10px;
 }
 
