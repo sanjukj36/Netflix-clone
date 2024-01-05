@@ -53,7 +53,7 @@ body{
 
 
 #trailer_img{
-    margin: -71% 0% 0% 27%;
+    margin: -55% 0% 0% 25%;
     width: 50%;
      height: 152px;
 }
@@ -219,7 +219,7 @@ i{
 
 .slider2{
     position: absolute;
-    top: 590px ;
+    top: 620px ;
     z-index: 500;
 }
 
@@ -230,7 +230,7 @@ i{
 }
 .slider4{
     position: absolute;
-    top: 1530px ;
+    top: 1390px ;
     z-index: 300;
     /* display: none; */
 }
@@ -323,7 +323,7 @@ i{
 
 
 .footer{
-    margin-top: 430px;
+    margin-top: 565px;
     margin-bottom: 10px;
 }
 
